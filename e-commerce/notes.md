@@ -1,0 +1,2 @@
+## scss
+SCSS, short for "Sassy Cascading Style Sheets," is a CSS preprocessor that extends CSS with features like variables, nesting, and mixins, making it easier and more efficient to write and maintain stylesheets
